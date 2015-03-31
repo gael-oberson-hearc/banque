@@ -14,7 +14,7 @@ import oracle.jdbc.pool.OracleDataSource;
 
 /**
  *
- * @author christop.francill
+ * @author Gaë Oberson
  */
 public class OracleConnections {
     private static OracleDataSource ods = null;

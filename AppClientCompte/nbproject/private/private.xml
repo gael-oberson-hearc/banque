@@ -7,6 +7,8 @@
             <file>file:/D:/AppSRSerieServlet-CRUD/AppSRSerieServlet-CRUD/src/java/dbfactory/OracleConnections.java</file>
             <file>file:/D:/AppSRSerieServlet-CRUD/AppSRSerieServlet-CRUD/src/java/dao/CompteDao.java</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/Users/gael/Google%20Drive/HE-Arc/206-Semestre%206/635-1.1%20Technologies%20actuelles/banque/AppClientCompte/src/java/dbfactory/OracleConnections.java</file>
+        </group>
     </open-files>
 </project-private>

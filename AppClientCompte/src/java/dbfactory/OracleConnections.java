@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 import oracle.jdbc.pool.OracleDataSource;
 
 /**
- *
+ *lkadhfklajsdhflkasjdfh
  * @author Gaë Oberson
  */
 public class OracleConnections {

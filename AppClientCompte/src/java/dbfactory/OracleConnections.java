@@ -13,8 +13,13 @@ import java.util.logging.Logger;
 import oracle.jdbc.pool.OracleDataSource;
 
 /**
+<<<<<<< HEAD
  *
- * @author christop.francill
+ * @author Gaël Oberson
+=======
+ *lkadhfklajsdhflkasjdfh
+ * @author Gaë Oberson
+>>>>>>> origin/master
  */
 public class OracleConnections {
     private static OracleDataSource ods = null;

@@ -18,6 +18,7 @@ import oracle.jdbc.OracleTypes;
 /**
  *
  * @author christop.francill
+ * test de Thao
  */
 public class ClientDao {
     public static long create(Client cli){

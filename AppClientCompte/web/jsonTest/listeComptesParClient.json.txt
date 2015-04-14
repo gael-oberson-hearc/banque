@@ -1,0 +1,16 @@
+{client: 3,
+	comptes:[
+		compte:{
+			identifiant: 23,
+			nom:"compte salaire",
+			solde:"13'785.00",
+			taux:"0.7"
+		},
+		compte{
+			identifiant: 27,
+			nom:"compte épargne",
+			solde:"174'284.34",
+			taux:"1.2"
+		}
+	]
+}

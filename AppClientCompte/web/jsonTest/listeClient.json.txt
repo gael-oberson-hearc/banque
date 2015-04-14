@@ -1,0 +1,14 @@
+{clients:[
+	client:{
+		identifiant: 3,
+		nom:"Oberson",
+		prenom:"Gaël",
+		adresse:"Rue blabla"
+	},
+	client:{
+		identifiant: 13,
+		nom:"Obeasdfasdf",
+		prenom:"Gaëasdadsfl",
+		adresse:"Rueasdfsdafla"
+	},
+]}
